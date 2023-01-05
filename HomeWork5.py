@@ -153,18 +153,4 @@ final_keys = ( 'dict_a', 'dict_b' )
 res = dict(zip(final_keys, final_values))
 
 print('\n', 'Task 5', '\n', 'res = ', res)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# ==========================================================
